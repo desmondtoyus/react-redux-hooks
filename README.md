@@ -1,10 +1,10 @@
 
 
-# React Hook Example
-Simple count increment with react hooks and Redux hooks
+# React Hooks & Redux Hooks Example
+Simple count incrementer with react hooks and Redux hooks
 
 # Description
-Simple count increment with react hooks and Redux hooks
+Simple count incrementer with react hooks and Redux hooks
 
 ## Quick start
 
@@ -17,7 +17,6 @@ Simple count increment with react hooks and Redux hooks
 PRODUCTION RUN npm run (or yarn) build
 DEVELOPMENT RUN npm run (or yarn) start 
 pm2 start server
-npm run sitemap
 ```
 
 ## Test
