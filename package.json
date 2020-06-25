@@ -59,6 +59,7 @@
     ]
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "check-types": "^11.1.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
